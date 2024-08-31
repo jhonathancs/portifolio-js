@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* Personalizações gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a2e2d2;
+}
+
+/* Personalizações específicas */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-nav li {
+    margin-right: 20px;
+}
+
+.custom-text-primary {
+    color: #ff5733;
+}
+
+.custom-bg {
+    background-color: #00cc99;
+}
+
+.custom-img-border {
+    border: 3px solid #ff5733;
+}
+
+.custom-btn-facebook {
+    background-color: #3b5998;
+}
+
+.custom-btn-github {
+    background-color: #24292e;
+}
