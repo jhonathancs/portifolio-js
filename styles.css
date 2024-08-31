@@ -10,7 +10,7 @@ body {
 
 /* Personalizações específicas */
 .navbar {
-    background-color: #333;
+    background-color: #c56d6d;
 }
 
 .navbar-brand {
@@ -38,5 +38,5 @@ body {
 }
 
 .custom-btn-github {
-    background-color: #24292e;
+    background-color: #3b6997;
 }
